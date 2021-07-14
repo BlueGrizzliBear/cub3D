@@ -20,20 +20,20 @@ Configurable elements in this file include:
 - SO (for South texture)
 - WE (for West texture)
 - EA (for East texture)
-- S (for Sprite): texture for sprites
-- F (for Floor colors): RGB components of the floor color
-- C (for Ceiling colors): RGB components of the ceiling color
+- S (for Sprite): path to texture file for sprites objects
+- F (for Floor colors): RGB components of the floor color (numbers between 0 and 255)
+- C (for Ceiling colors): RGB components of the ceiling color (numbers between 0 and 255)
 - Map Configuration:
   - 1 indicates a 1x1 plain wall
   - 0 indicate no wall
-  - N or W or E or S indicates the facing direction of the player
-  - 2 indicates a sprite
+  - N or W or E or S indicates the position and facing direction of the player
+  - 2 indicates the position of a sprite
 
 The map_example.cub has a basic configuration.
 
 ## Usage
 
-### Launch the default game engine
+### Default game engine
 
 The default game engine features:
 
@@ -50,6 +50,8 @@ Basic keys in game:
 - <-: rotate left
 - ->: rotate right
 
+<img width="1281" alt="basic_game_engine_screenshot" src="https://user-images.githubusercontent.com/49372605/125628390-1937b2f0-7f1b-4586-9d17-c40a1d2325e3.png">
+
 Use the Makefile to compile the project
 
 ```bash
@@ -62,7 +64,7 @@ Launch the project
 ./Cub3D map_example.cub
 ```
 
-### Launch the bonus game engine
+### Bonus features
 
 Bonus features:
 
@@ -76,6 +78,8 @@ Bonus features:
 Added keys in game:
 
 - Shift: sprint
+
+<img width="1281" alt="bonus_features_screenshot" src="https://user-images.githubusercontent.com/49372605/125628407-253aa75e-d6a1-4519-8c79-73ff7f02ae84.png">
 
 Use the Makefile to compile the project
 
