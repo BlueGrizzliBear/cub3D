@@ -7,6 +7,8 @@ This project features:
 - a default 3D game engine
 - a 3D game engine with additional features to turn it into a small 3D video game
 
+All the textures, sprites and environment was inspired from the F.E.A.R video game.
+
 ## Context
 
 This project is part of the cub3d project of 42 Software Engineering program.
