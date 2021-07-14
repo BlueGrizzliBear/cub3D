@@ -1,7 +1,7 @@
 # Cub3D
 
-A 3D game engine implemented using raycasting, in C.
-Raycasting is based on angles' cosine, sinine and/or tangent calculations instead of vectors' calculations.
+A 3D game engine implemented with raycasting.
+Raycasting algorithm is based on angles' cosine, sinine and/or tangent calculations instead of vectors' calculations.
 
 The graphics library used is the [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/introduction.html).
 
@@ -13,7 +13,7 @@ The environment (Textures, sprites) was inspired from the F.E.A.R video game.
 
 ## Context
 
-This project is part of the cub3d project of 42 Software Engineering program.
+This project was done as part of 42's Software Engineering program.
 
 ## Configuration
 
