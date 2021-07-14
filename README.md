@@ -1,9 +1,11 @@
 # Cub3D
 
-A 3d game engine implemented using raycasting.
-Raycasting calculations are based on angles with cosine, sinine and tangent instead of vectors.
+A 3D game engine implemented using raycasting.
+Raycasting is based on angles' cosine, sinine and/or tangent calculations instead of vectors' calculations.
 
-This project features a default 3D game engine and a more elaborated 3D game engine (the bonus part).
+This project features:
+- a default 3D game engine
+- a 3D game engine with additional features to turn it into a small 3D video game
 
 ## Context
 
