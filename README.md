@@ -74,6 +74,7 @@ Launch the project
 
 Bonus features:
 
+- Colision between player and walls
 - HUD implemented with healthbar
 - Sprites move (through walls as well!) to catch you
 - Sprites if near you reduce your healthbar
