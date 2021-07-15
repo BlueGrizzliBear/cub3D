@@ -1,4 +1,4 @@
-# Cub3D
+# cub3D
 
 A 3D game engine implemented with raycasting.
 Raycasting algorithm is based on angles' cosine, sinine and/or tangent calculations instead of vectors' calculations.
