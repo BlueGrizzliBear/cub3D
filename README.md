@@ -48,7 +48,7 @@ The default game engine features:
 
 Basic keys in game:
 
-- ESC: quits the game
+- ESC: quit the game
 - W: move forward
 - S: move backward
 - A: strafe left
@@ -75,12 +75,15 @@ Launch the project
 Bonus features:
 
 - Colision between player and walls
-- HUD implemented with healthbar
-- Sprites move (through walls as well!) to catch you
-- Sprites if near you reduce your healthbar
-- User can sprint now
-- User has a cursor
-- Minimap on the top left corner
+- HUD:
+  - health bar
+  - top left corner minimap with FOV
+  - middle cursor
+- Sprites:
+  - they move now to catch you (through walls as well!)
+  - if near you, they will reduce your health bar
+- User abilities:
+  - User can sprint now
 
 Added keys in game:
 
