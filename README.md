@@ -5,9 +5,9 @@ Raycasting algorithm is based on angles' cosine, sinine and/or tangent calculati
 
 The graphics library used is the [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/introduction.html).
 
-This project features:
+This project features 2 game engines:
 - a default 3D game engine
-- a 3D game engine with additional features to turn it into a small 3D video game
+- another 3D game engine with additional features to turn it into a small 3D video game
 
 The environment (Textures, sprites) was inspired from the F.E.A.R video game.
 
