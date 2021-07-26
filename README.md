@@ -13,7 +13,7 @@ The environment (Textures, sprites) was inspired from the F.E.A.R video game.
 
 ## Context
 
-This project was done as part of 42's Software Engineer program.
+This project was done as part of 42's Software Engineer program. Project was passed the 28th February 2020.
 
 ## Configuration
 
